@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<datos>
+    <cliente nombre="Juan" >
+        <email>juan@gmail.com</email>
+        <telefono>011-1111111111</telefono>
+        <direccion>
+            <calle>Tacuarí 342</calle>
+        </direccion>         
+    </cliente>
+    <cliente nombre="Anna" >
+        <email>anna@gmail.com</email>
+    </cliente>    
+    <cliente nombre="Pedro" >
+        <email>pedro@gmail.com</email>
+        <telefono>011-2222222222</telefono>
+        <direccion>
+            <calle>Río de Janeiro 215</calle>
+        </direccion>        
+    </cliente>  
+    <cliente nombre="Gabriela" >
+        <email>gabriela@gmail.com</email>    
+        <telefono>011-3333333333</telefono>
+        <direccion>
+            <calle>Rivadavia 8345</calle>
+        </direccion>
+    </cliente>      
+</datos>
